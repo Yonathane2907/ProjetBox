@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+body div {
+  background-color: grey;
+}
+body .description {
+  background-color: white;
+}
+
+/*# sourceMappingURL=Style.css.map */
