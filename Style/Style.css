@@ -2,8 +2,8 @@
 body {
   background-color: black;
 }
-body div {
-  background-color: #f2f3f2;
+body header {
+  background-color: white;
 }
 body .description {
   background-color: white;
@@ -35,6 +35,10 @@ button {
   font-size: 20px;
 }
 
+.contact {
+  margin-right: 0.8rem;
+}
+
 .overflow-hidden {
   background-color: #f2f3f2;
   padding-bottom: 15%;
@@ -64,9 +68,25 @@ nav ul {
   margin-bottom: 0 !important;
 }
 
+.prenom {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.phrase {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 0 !important;
+}
+
 #logo {
   width: 150px;
   height: 80px;
+}
+
+footer {
+  background-color: #373737;
+  color: white;
 }
 
 .link {
