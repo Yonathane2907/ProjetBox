@@ -34,10 +34,11 @@ button{
 .overflow-hidden{
     background-color: #f2f3f2;
     padding-bottom: 15%;
-    img{
-    margin-top:20px;
-    
-    }
+        
+}
+
+.sit{
+    color: orange;
 }
 .article{
     background-color: white;
@@ -59,15 +60,10 @@ nav ul
     list-style-type: none;
     display: flex;
     justify-content: flex-end;
+    margin-bottom: 0 !important;
 
 }
 
-nav li
-{
-    margin-right: 75px;
-    padding-top: -200px;
-    margin-top: -70px;
-}
 
 #logo
 {

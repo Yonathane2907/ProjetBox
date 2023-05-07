@@ -39,8 +39,9 @@ button {
   background-color: #f2f3f2;
   padding-bottom: 15%;
 }
-.overflow-hidden img {
-  margin-top: 20px;
+
+.sit {
+  color: orange;
 }
 
 .article {
@@ -60,12 +61,7 @@ nav ul {
   list-style-type: none;
   display: flex;
   justify-content: flex-end;
-}
-
-nav li {
-  margin-right: 75px;
-  padding-top: -200px;
-  margin-top: -70px;
+  margin-bottom: 0 !important;
 }
 
 #logo {
