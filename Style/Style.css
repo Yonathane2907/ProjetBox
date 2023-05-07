@@ -1,11 +1,54 @@
+@charset "UTF-8";
 body {
   background-color: black;
 }
 body div {
-  background-color: grey;
+  background-color: #f2f3f2;
 }
 body .description {
   background-color: white;
+}
+
+button {
+  background-color: black;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.barre {
+  text-decoration: line-through;
+  margin: 50px;
+}
+
+.soldé {
+  color: orange;
+  margin: 50px;
+}
+
+.reduction {
+  background-color: black;
+  color: orange;
+  width: 50px;
+  margin-left: 95%;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.overflow-hidden {
+  background-color: #f2f3f2;
+  padding-bottom: 15%;
+}
+.overflow-hidden img {
+  margin-top: 20px;
+}
+
+.article {
+  background-color: white;
+  margin-top: 40px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 10px;
 }
 
 /*# sourceMappingURL=Style.css.map */
