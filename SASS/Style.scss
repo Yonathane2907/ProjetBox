@@ -1,0 +1,105 @@
+body{
+    background-color: black;
+    header{
+        background-color: white;
+    }
+    .description{
+        background-color: white;
+    }
+}
+button{
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.barre{
+    text-decoration: line-through;
+    margin: 50px;
+}
+.soldé{
+    color: orange;
+    margin: 50px;
+}
+.reduction{
+    background-color: black;
+    color: orange;
+    width: 50px;
+    margin-left: 95%;
+    border-radius: 5px;    
+    font-size: 20px;
+    
+}
+.contact{
+    margin-right: 0.8rem;
+}
+.overflow-hidden{
+    background-color: #f2f3f2;
+    padding-bottom: 15%;
+        
+}
+
+.sit{
+    color: orange;
+}
+.article{
+    background-color: white;
+    margin-top:40px;
+margin-left: 15%;
+margin-right: 15%;
+margin-bottom: 10px;
+}
+#bloc_page
+{
+    width: 900px;
+    margin: auto;
+}
+
+
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0 !important;
+
+}
+.prenom{
+    display:flex;
+    justify-content: flex-end;
+}
+.phrase{
+    display:flex;
+    justify-content: flex-start;
+    margin-bottom: 0 !important;
+}
+#logo
+{
+    width: 150px;
+    height: 80px;
+}
+footer{
+    background-color: #373737;
+    color: white;
+}
+
+.link{
+
+    margin-right: 1px;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.container{
+
+    text-align: center;
+}
